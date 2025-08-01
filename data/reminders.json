@@ -1,0 +1,23 @@
+{
+  "175051175987642369": [
+    {
+      "title": "Take Dapsone",
+      "time": "08:30",
+      "checklist": [
+        ""
+      ],
+      "delay": 5,
+      "channel_id": 1400714597861953626,
+      "user_mention": true,
+      "days": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    }
+  ]
+}
